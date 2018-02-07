@@ -5,7 +5,8 @@ LogicApps using different connectors to connect data.
 
 You need very limited development skills only.
 
-Serialized code is attached in logiccapp.json. You can use it for e.g. version control.
+Serialized code is attached in [logiccapp.json](logiccapp.json). You can use it for e.g. version control.
+SQL stored procedure is simple, without any modifications (see [sp.sql](sp.sql))
 
 ## Logic App Designer
 Graphical designer for dataflow. As you can see, everything is desighned graphically. Parameters and returnvalues are listed as dynamic content.
