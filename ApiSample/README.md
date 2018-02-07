@@ -22,3 +22,13 @@ Steps:
 I'm using Postman to call LogicApp function
 
 ![Image](media/postman.png)
+
+# What next ? Protect your API
+Use Azure API management service to publish your API - secure it and configure authentication, thresholds, caching etc.
+See [more features](https://azure.microsoft.com/en-us/services/api-management/)
+
+Integrate LogicApp is more than easy, just to select LogicApp
+![Image](media/api01.png)
+
+Test it, it's working !
+![Image](media/api02.png)
